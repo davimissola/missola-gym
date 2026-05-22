@@ -7,10 +7,12 @@ Sistema Desktop para gerenciamento e controle de alunos de uma academia. Desenvo
 ## Demonstração Visual
 
 ### Interface Principal & Cadastro (Tema Dark)
-![Cadastro de Alunos](<img width="1001" height="723" alt="temadark" src="https://github.com/user-attachments/assets/1a3d899e-a403-484c-8a4d-1bca855b332a" />)
+![Cadastro de Alunos](<img width="1001" height="723" alt="temadark" src="https://github.com/user-attachments/assets/03295d4c-0c21-441b-966d-674a91810581" />
+)
 
 ### Alternância para Tema Light & Listagem
-![Modo Claro](<img width="999" height="730" alt="temalight" src="https://github.com/user-attachments/assets/149d8b2e-2f89-4298-be33-7db79e35b2bd" />)
+![Modo Claro](<img width="999" height="730" alt="temalight" src="https://github.com/user-attachments/assets/a8861970-c8bf-43fb-912d-b3f4dbb92788" />
+)
 
 ---
 
