@@ -1,4 +1,4 @@
-### Missola Gym - Desktop
+#### Sistema de uma **Academia** - Desktop
 
 Sistema Desktop para gerenciamento e controle de alunos de uma academia. Desenvolvido em Python utilizando a biblioteca **CustomTkinter** para a interface gráfica e integrado a um banco de dados relacional **SQL Server** via `pyodbc`.
 
